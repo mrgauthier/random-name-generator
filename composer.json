@@ -1,11 +1,11 @@
 {
-    "name": "mrgauthier/random-name-generator",
-    "description": "A fork of a library to create interesting, sometimes entertaining, random names originally written by Spencer Rinehart.",
+    "name": "nubs/random-name-generator",
+    "description": "A library to create interesting, sometimes entertaining, random names.",
     "keywords": ["random", "generator", "video game", "alliteration"],
     "authors": [
         {
-            "name": "Matt Gauthier",
-            "email": "mr.mattyg@gmail.com",
+            "name": "Spencer Rinehart",
+            "email": "anubis@overthemonkey.com",
             "role": "Developer"
         }
     ],
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Mrgauthier\\RandomNameGenerator\\": "src"
+            "Nubs\\RandomNameGenerator\\": "src"
         }
     },
     "scripts": {
